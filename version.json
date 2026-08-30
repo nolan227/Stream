@@ -1,10 +1,9 @@
 {
   "version": "6.1.0",
-  "download_url": "https://github.com/nolan227/Stream/releases/download/v6.0.0/MyGameLauncher_V6.zip",
+  "download_url": "https://github.com/nolan227/Stream/releases/download/v6.1.0/MyGameLauncher_V6.1.0.zip",
   "changelog": [
     "Nouveau design",
-    "Bibliothèque améliorée",
-    "Système de News",
-    "Amélioration des performances"
+    "Nouvelles fonctionnalités",
+    "Corrections de bugs"
   ]
 }
