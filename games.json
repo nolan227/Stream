@@ -2,7 +2,7 @@
   "games": [
     {
       "id": "my-game-01",
-      "name": "TEST",
+      "name": "Mon Super Jeu",
       "version": "1.0.0",
       "genre": "Action / Adventure",
       "developer": "MyStudio",
