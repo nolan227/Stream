@@ -1,0 +1,13 @@
+{
+  "news": [
+    {
+      "id": "news-01",
+      "title": "Bienvenue sur MyGameLauncher",
+      "game": "Launcher",
+      "date": "2026-08-30",
+      "version": "1.0",
+      "description": "Bienvenue sur notre nouveau launcher !",
+      "image": ""
+    }
+  ]
+}
