@@ -2,7 +2,7 @@
   "games": [
     {
       "id": "my-game-01",
-      "name": "My Game",
+      "name": "TEST",
       "version": "1.0.0",
       "genre": "Action / Adventure",
       "developer": "MyStudio",
