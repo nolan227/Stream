@@ -1,0 +1,18 @@
+{
+  "games": [
+    {
+      "id": "my-game-01",
+      "name": "My Game",
+      "version": "1.0.0",
+      "genre": "Action / Adventure",
+      "developer": "MyStudio",
+      "size": "2.4 GB",
+      "description": "Mon premier jeu.",
+      "cover": "",
+      "banner": "",
+      "download_url": "",
+      "executable": "MyGame.exe",
+      "featured": true
+    }
+  ]
+}
