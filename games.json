@@ -13,6 +13,20 @@
       "download_url": "https://youtube.com/",
       "executable": "MyGame.exe",
       "featured": true
+    },
+      {
+      "id": "my-game-02",
+      "name": "TEST",
+      "version": "1.0.0",
+      "genre": "Action / Adventure",
+      "developer": "TEST",
+      "size": "2.4 GB",
+      "description": "TEST",
+      "cover": "",
+      "banner": "",
+      "download_url": "https://youtube.com/",
+      "executable": "MyGame.exe",
+      "featured": false
     }
   ]
 }
